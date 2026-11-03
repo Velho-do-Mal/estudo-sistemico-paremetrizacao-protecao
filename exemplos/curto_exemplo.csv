@@ -1,0 +1,7 @@
+ponto;tipo;local_pct;icc_ka;rf_ohm;terminal
+SE-A - barra;3F;0;10,5;0;
+LT 25%;FT;25;7,4;0;
+LT 50%;FT;50;6,1;0;
+LT 80%;FT;80;4,2;0;
+LT 100% (barra remota);FF;100;4,0;0;
+LT 100% (barra remota);FT;100;2,5;10;
